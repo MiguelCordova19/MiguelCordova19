@@ -1,4 +1,4 @@
-![Banner_MACS]([https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png](https://github.com/MiguelCordova19/poo-interfaces/blob/c946d71757236c2a21cf87011837233692e35773/Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas.png))
+![Banner_MACS](https://github.com/MiguelCordova19/poo-interfaces/blob/c946d71757236c2a21cf87011837233692e35773/Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
