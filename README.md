@@ -1,10 +1,9 @@
 ![Banner_MACS](https://github.com/MiguelCordova19/poo-interfaces/blob/c946d71757236c2a21cf87011837233692e35773/Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Que tal! Soy Miguel Córdova</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Acerca de mi
 
 👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
