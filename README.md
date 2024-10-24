@@ -42,15 +42,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-c%C3%B3rdova-santamar%C3%ADa-45a225331/"><img src="https://img.shields.io/badge/-Miguel%20Cordova-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:macsyt19@gmail.com"><img src="https://img.shields.io/badge/-MiguelCordova-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/MACSGAMER?locale=es_LA"><img src="https://img.shields.io/badge/-MiguelCordova-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
