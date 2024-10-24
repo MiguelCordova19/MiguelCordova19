@@ -5,14 +5,13 @@
 
 ### 👨🏻‍💻 &nbsp;Acerca de mi
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.\
+🎓 &nbsp;Actualmente estoy estudiando en la Universidad Tecnológica del Perú en la carrera de Ingeniería de Sistemas.\
+🌱 &nbsp;Estoy en camino de aprender más sobre Python, JavaScript y Node.js.\
+✍️ &nbsp;En mi tiempo libre, me dedico al diseño de logotipos y hago trabajos de freelance.\
+💬 &nbsp;No dudes en comunicarte conmigo para realizar consultoría o realizar una donacion a mi paypal [PayPal](https://paypal.me/miguelcordova19?country.x=PE&locale.x=es_XC)\
+✉️ &nbsp;¡Puedes enviarme un correo electrónico a macsyt19@gmail.com! Intentaré responder tan pronto como pueda.\
+📄 &nbsp;Eche un vistazo a mi currículum para obtener más detalles sobre mí. [CV](https://drive.google.com/file/d/14i3gzlA6mG14rpAkEgRO8YP6vpGNMtW9/view?usp=drive_link) ¡Estoy abierto a comentarios y sugerencias!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
