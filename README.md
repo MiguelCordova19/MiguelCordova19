@@ -44,5 +44,7 @@
 <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-c%C3%B3rdova-santamar%C3%ADa-45a225331/"><img src="https://img.shields.io/badge/-Miguel%20Cordova-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:macsyt19@gmail.com"><img src="https://img.shields.io/badge/-MiguelCordova-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/MACSGAMER?locale=es_LA"><img src="https://img.shields.io/badge/-MiguelCordova-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.youtube.com/@macs19"><img src="https://img.shields.io/badge/Macsgamer19-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.twitch.tv/macsgamer19"><img src="https://img.shields.io/badge/MACSGAMER19-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 </p>
 
